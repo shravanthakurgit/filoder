@@ -8,7 +8,7 @@ The app provides fast and optimized file handling features such as sorting, sear
 ## 👨‍💻 Developed By 
 
 - **Kakoli Halder**
-- **Shrawn Thakur**
+- **Shrawan Thakur**
 
 ## 🚀 Features
 
